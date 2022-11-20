@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Tom</h1>
-<h3 align="center">I'm a full-stack software developer.</h3>
+<h1>Hi 👋, I'm Tom</h1>
+<h3>I'm a full-stack software developer.</h3>
 
 - 💬 Ask me about **Mud's ! (multi user dungeons)**
 
